@@ -2,4 +2,4 @@ koka kola x5
 leb x6
 kecap x2
 makaroni x4
-kremsir x2
+kremsir x5
